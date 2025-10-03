@@ -3,13 +3,13 @@ Eight Task of Data Analyst  Internship @ Elevate Labs
 
 Steps to Create the Dashboard
 
-Data Collection & Import
+1.Data Collection & Import
 
 Collected raw Shopify sales data (orders, customers, payments, product categories, geography).
 
 Imported the dataset into Power BI for modeling and visualization.
 
-Data Cleaning & Transformation
+2.Data Cleaning & Transformation
 
 Removed duplicates and handled missing values.
 
@@ -17,11 +17,11 @@ Standardized date, customer, and product fields.
 
 Created calculated columns/measures (e.g., Total Sales, Quantity, AOV).
 
-Data Modeling
+3.Data Modeling
 
 Established relationships between Orders, Customers, Products, and Payments tables.
 
-Built DAX measures:
+4.Built DAX measures:
 
 Net_Sales, Total_Quantity, Avg_Order_Value
 
@@ -29,27 +29,27 @@ Total_Customer, Single_Order_Customer, Repeated_Customer
 
 CLV, Repeat_Rate, Order_Frequency
 
-KPI Cards
+5.KPI Cards
 
 Designed KPI visuals to display high-level metrics (Net Sales, Customers, CLV, Repeat Rate, etc.).
 
-Time Analysis
+6.Time Analysis
 
 Created a line chart for Net Sales by Hour to identify peak buying times.
 
-Geographic Analysis
+7.Geographic Analysis
 
 Built bar charts for Top Provinces and Top Cities by Sales to track regional performance.
 
-Channel/Payment Analysis
+8.Channel/Payment Analysis
 
 Used a donut chart to show Sales by Gateway (Shopify Payments, PayPal, etc.).
 
-Product Analysis
+9.Product Analysis
 
 Built a bar chart for Net Sales by Product Type, highlighting top-performing categories.
 
-Formatting & Design
+10.Formatting & Design
 
 Applied consistent dark theme with white text for clear visibility.
 
